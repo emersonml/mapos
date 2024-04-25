@@ -1,4 +1,33 @@
 
+
+
+
+#### NO SERVIDOR
+   ## PARA QUE SEJA GERADO O ARQUEIVO .env na hora da instalação
+    sudo chmod 757 application/; 
+
+
+
+
+FOI MODIFICADOS DO ORIGINAL
+    sudo chmod 777 README.md; sudo chmod 777 updates/; sudo chmod 777 docker/.env; sudo chmod 777 docker/docker-compose.yml; 
+    foi criado um pasta volume no docker-compose para o container MYSQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![MapOS](https://raw.githubusercontent.com/RamonSilva20/mapos/master/assets/img/logo.png)
 
 ![version](https://img.shields.io/badge/version-4.45.0-blue.svg?longCache=true&style=flat-square)
